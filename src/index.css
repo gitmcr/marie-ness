@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Player styling */
+
+.rhap_container {
+  @apply bg-gray-800;
+}
+
+.rhap_time,
+.rhap_main-controls-button,
+.rhap_volume-button,
+.rhap_repeat-button {
+  @apply text-white;
+}
+
+.rhap_progress-filled,
+.rhap_progress-indicator {
+  @apply bg-white;
+}
