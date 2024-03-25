@@ -1,8 +1,20 @@
-# React + Vite
+<b>Marie Ness 🎶</b>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+👋 I present you a React webpage for a friend musician.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Please take an interest and give me your feedback on any platform so I can improve! 🙏
+
+---
+
+🎨 I used Adobe Illustrator, Photostop and Figma for mockups and design (images, icons, logos).
+
+💻 And React, Tailwind and Material UI + Emotion for the development.
+
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=materialui,tailwind,react)](https://skillicons.dev)
+
+---
+
+🌐 [Live Version](https://6601c6d6d5ef902ea67593a1--dashing-halva-d2e0a0.netlify.app/#contact)
