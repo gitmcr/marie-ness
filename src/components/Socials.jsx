@@ -26,7 +26,7 @@ export default function Socials() {
             <h3 className="px-2">YouTube</h3>
           </a>
           <a
-            href="#"
+            href="https://www.facebook.com/people/MarieNess/100063475206489/"
             target="_blank"
             className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-blue-500/60 dark:focus:ring-gray-800"
           >
