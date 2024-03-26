@@ -17,4 +17,4 @@ Please take an interest and give me your feedback on any platform so I can impro
 
 ---
 
-🌐 [Live Version](https://6601c6d6d5ef902ea67593a1--dashing-halva-d2e0a0.netlify.app/#contact)
+🌐 [Live Version](https://6602a5f81392da161ba748bd--dashing-halva-d2e0a0.netlify.app/)
