@@ -12,7 +12,7 @@ import logo from "../assets/logo.png";
 
 const navigation = [
   { name: "Accueil", href: "#", current: false },
-  { name: "Discographie", href: "#discover", current: false },
+  { name: "Discographie", href: "#discography", current: false },
   { name: "Contact", href: "#contact", current: false },
 ];
 
@@ -77,7 +77,10 @@ export default function Navbar() {
                           fontSize={50}
                         />
                       </a>
-                      <a href="" target="_blank">
+                      <a
+                        href="https://www.facebook.com/people/MarieNess/100063475206489/"
+                        target="_blank"
+                      >
                         <AiOutlineFacebook
                           className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-lg"
                           fontSize={50}
@@ -137,25 +140,34 @@ export default function Navbar() {
               ))}
             </div>
             <div className="flex justify-center text-center px-4 pb-3 pt-2">
-              <a href="">
+              <a
+                href="https://www.youtube.com/channel/UCJFYb0aw92a6jNOIn7pz_Qg"
+                target="_blank"
+              >
                 <AiOutlineYoutube
                   className="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-2 py-1"
                   fontSize={45}
                 />
               </a>
-              <a href="">
+              <a
+                href="https://www.facebook.com/people/MarieNess/100063475206489/"
+                target="_blank"
+              >
                 <AiOutlineFacebook
                   className="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-2 py-1"
                   fontSize={45}
                 />
               </a>
-              <a href="">
+              <a href="https://www.instagram.com/_marie_ness_" target="_blank">
                 <AiOutlineInstagram
                   className="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-2 py-1"
                   fontSize={45}
                 />
               </a>
-              <a href="">
+              <a
+                href="https://open.spotify.com/intl-fr/artist/20E46Kk1xblomlcKtd4riI"
+                target="_blank"
+              >
                 <PiSpotifyLogo
                   className="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-2 py-1"
                   fontSize={45}
