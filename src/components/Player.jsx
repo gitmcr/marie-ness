@@ -5,7 +5,7 @@ import { IoLogoYoutube } from "react-icons/io";
 
 export default function Player() {
   return (
-    <div className="dark:bg-gray-800 w-full fixed bottom-0 flex justify-around">
+    <div className="bg-gray-800 w-full fixed bottom-0 flex justify-around">
       <div className="hidden lg:flex items-center gap-3">
         <img
           src="./picmusic.jpg"

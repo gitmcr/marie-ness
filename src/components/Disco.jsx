@@ -4,11 +4,15 @@ import { AiOutlineYoutube } from "react-icons/ai";
 
 export default function Disco() {
   return (
-    <div className="dark:bg-gray-800 p-10 text-white" id="discography">
-      <h1 className="text-center mb-4 text-2xl font-extrabold tracking-tight leading-none text-gray-900 md:text-3xl lg:text-4xl dark:text-white pb-6">
-        Discographie
+    <div className="bg-gray-800 p-10 text-white" id="discography">
+      <h1 className="text-center mb-4 text-3xl font-extrabold tracking-tight leading-none text-white md:text-3xl lg:text-4xl  pb-6">
+        Musiques populaires
       </h1>
-      <div className="mt-10 ">
+      <div
+        className="mt-10 md:mx-24"
+        data-aos="fade-up"
+        data-aos-duration="1000"
+      >
         <div className="flex text-gray-400 pr-12">
           <div className="p-3 w-full">Cover</div>
           <div className="p-3 w-full">Titre</div>
@@ -27,10 +31,15 @@ export default function Disco() {
             <a
               href="https://open.spotify.com/intl-fr/track/7oYYzFbqDRzkTjCjYLaDzy"
               target="_blank"
+              aria-label="Lien Spotify"
             >
               <PiSpotifyLogo className="text-4xl hover:text-green-500" />
             </a>
-            <a href="https://www.youtube.com/watch?v=DUttg17LlfI">
+            <a
+              href="https://www.youtube.com/watch?v=DUttg17LlfI"
+              target="_blank"
+              aria-label="Lien YouTube"
+            >
               <AiOutlineYoutube className="text-4xl hover:text-red-500" />
             </a>
           </div>
@@ -46,10 +55,15 @@ export default function Disco() {
             <a
               href="https://open.spotify.com/intl-fr/track/2h5mEtxvOFe3Ajl3NzxFlA"
               target="_blank"
+              aria-label="Lien Spotify"
             >
               <PiSpotifyLogo className="text-4xl hover:text-green-500" />
             </a>
-            <a href="https://www.youtube.com/watch?v=fNyS27LMSwo">
+            <a
+              href="https://www.youtube.com/watch?v=fNyS27LMSwo"
+              target="_blank"
+              aria-label="Lien YouTube"
+            >
               <AiOutlineYoutube className="text-4xl hover:text-red-500" />
             </a>
           </div>
@@ -65,10 +79,15 @@ export default function Disco() {
             <a
               href="https://open.spotify.com/intl-fr/album/5nDp2EnmC3zGqQxqz0nWSS"
               target="_blank"
+              aria-label="Lien Spotify"
             >
               <PiSpotifyLogo className="text-4xl hover:text-green-500" />
             </a>
-            <a href="https://open.spotify.com/intl-fr/album/5nDp2EnmC3zGqQxqz0nWSS">
+            <a
+              href="https://open.spotify.com/intl-fr/album/5nDp2EnmC3zGqQxqz0nWSS"
+              target="_blank"
+              aria-label="Lien YouTube"
+            >
               <AiOutlineYoutube className="text-4xl hover:text-red-500" />
             </a>
           </div>
@@ -84,10 +103,15 @@ export default function Disco() {
             <a
               href="https://open.spotify.com/intl-fr/track/6JQYj7bQwV5z9wxi0BYMsf"
               target="_blank"
+              aria-label="Lien Spotify"
             >
               <PiSpotifyLogo className="text-4xl hover:text-green-500" />
             </a>
-            <a href="https://www.youtube.com/watch?v=t0wv_7dx5UA">
+            <a
+              href="https://www.youtube.com/watch?v=t0wv_7dx5UA"
+              target="_blank"
+              aria-label="Lien YouTube"
+            >
               <AiOutlineYoutube className="text-4xl hover:text-red-500" />
             </a>
           </div>
@@ -103,10 +127,15 @@ export default function Disco() {
             <a
               href="https://open.spotify.com/intl-fr/track/0VTfLaxWg5qzehZPvDBZlL"
               target="_blank"
+              aria-label="Lien Spotify"
             >
               <PiSpotifyLogo className="text-4xl hover:text-green-500" />
             </a>
-            <a href="https://www.youtube.com/watch?v=CZ8aha2SAbA">
+            <a
+              href="https://www.youtube.com/watch?v=CZ8aha2SAbA"
+              target="_blank"
+              aria-label="Lien YouTube"
+            >
               <AiOutlineYoutube className="text-4xl hover:text-red-500" />
             </a>
           </div>
