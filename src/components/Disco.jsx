@@ -10,7 +10,7 @@ export default function Disco() {
       </h1>
       <div className="mt-10 ">
         <div className="flex text-gray-400 pr-12">
-          <div className="p-3 w-full">Jaquette</div>
+          <div className="p-3 w-full">Cover</div>
           <div className="p-3 w-full">Titre</div>
           <div className="hidden lg:flex p-3 w-full">Album</div>
           <div className="hidden md:flex p-3 w-full">Durée</div>
