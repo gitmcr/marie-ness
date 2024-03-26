@@ -8,7 +8,7 @@ export default function Player() {
     <div className="bg-gray-800 w-full fixed bottom-0 flex justify-around">
       <div className="hidden lg:flex items-center gap-3">
         <img
-          src="./picmusic.jpg"
+          src="./picmusic.webp"
           alt="Album Marie Ness"
           className="w-14 rounded-lg"
         />

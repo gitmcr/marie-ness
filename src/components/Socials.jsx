@@ -9,9 +9,9 @@ export default function Socials() {
   return (
     <section className="bg-gray-800" id="discover">
       <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:pt-16 pb-8 lg:px-12">
-        <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
+        <h2 className="mb-4 text-4xl font-bold tracking-tight leading-none text-white md:text-5xl lg:text-5xl">
           Découvrez moi
-        </h1>
+        </h2>
         <p className="mb-8 text-lg font-normal text-gray-400 lg:text-xl sm:px-16 xl:px-48 ">
           Retrouvez toutes mes compositions et mes dernières actualités sur mes
           différents réseaux sociaux

@@ -5,9 +5,9 @@ import { AiOutlineYoutube } from "react-icons/ai";
 export default function Disco() {
   return (
     <div className="bg-gray-800 p-10 text-white" id="discography">
-      <h1 className="text-center mb-4 text-3xl font-extrabold tracking-tight leading-none text-white md:text-3xl lg:text-4xl  pb-6">
+      <h2 className="text-center mb-4 text-3xl font-bold tracking-tight leading-none text-white md:text-3xl lg:text-4xl  pb-6">
         Musiques populaires
-      </h1>
+      </h2>
       <div
         className="mt-10 md:mx-24"
         data-aos="fade-up"
